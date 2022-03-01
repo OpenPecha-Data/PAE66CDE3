@@ -1,0 +1,21 @@
+id: PAE66CDE3
+initial_creation_type: input
+source_metadata:
+  title: 'BA: Proto-BA (Buddhanāmanirdeśa)'
+  language: zh
+  volumes:
+    469b2260bed44d22aa73f5e778ec0681:
+      title: 'Chapter I: Nidāna'
+      base_file: 'Chapter I: Nidāna.txt'
+      work_id: W187B35E6
+    801fe36bdbea455fb27559952212665a:
+      title: 'Chapter II: Praṇidhānacaryā'
+      base_file: 'Chapter II: Praṇidhānacaryā.txt'
+      work_id: W40BB4B22
+    83c0ae6a58d541c4aa6939be4a685823:
+      title: Title
+      base_file: Title.txt
+      work_id: WB9D8BAB3
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:06:16.646952'
+last_modified_at: '2022-03-01T22:06:16.646959'
